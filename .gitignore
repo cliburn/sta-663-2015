@@ -3,3 +3,4 @@
 *.gitignore
 *.DS_Store
 *dmoz*
+*.o
