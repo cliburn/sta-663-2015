@@ -26,4 +26,11 @@ Lectures/Topic17_Code_Optimization/mt_random.pyx
 Lectures/Topic17_Code_Optimization/mt_random.so
 Lectures/Topic17_Code_Optimization/readme-mt.txt
 Lectures/Topic17_Code_Optimization/setup.py
-
+Lectures/Topic17_Code_Optimization/array_2d
+Lectures/Topic17_Code_Optimization/array_2d.c
+Lectures/Topic17_Code_Optimization/hello
+Lectures/Topic17_Code_Optimization/hello.c
+Lectures/Topic17_Code_Optimization/pointers2
+Lectures/Topic17_Code_Optimization/pointers2.c
+Lectures/Topic17_Code_Optimization/ptr
+Lectures/Topic17_Code_Optimization/ptr.c
