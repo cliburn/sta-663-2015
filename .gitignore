@@ -6,6 +6,7 @@
 *.o
 *.Rhistory
 *.gz
+*Untitled.ipynb
 Lectures/Topic17_Code_Optimization/fib.c
 Lectures/Topic17_Code_Optimization/fib.cpp
 Lectures/Topic17_Code_Optimization/fib.h
@@ -98,3 +99,11 @@ Lectures/Topic18_Cython_and_Parallelism/pdist_cpp.so
 Lectures/Topic18_Cython_and_Parallelism/pdist_fortran.f90
 Lectures/Topic18_Cython_and_Parallelism/readme-mt.txt
 Lectures/Topic18_Cython_and_Parallelism/setup.py
+Labs/Lab08/distributions.c
+Labs/Lab08/distributions.h
+Labs/Lab08/main
+Labs/Lab08/main.c
+Labs/Lab08/main.dSYM/
+Labs/Lab08/makefile
+Labs/Lab08/sum
+Labs/Lab08/sum.c
