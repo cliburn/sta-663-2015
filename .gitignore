@@ -4,6 +4,8 @@
 *.DS_Store
 *dmoz*
 *.o
+*.Rhistory
+*.gz
 Lectures/Topic17_Code_Optimization/fib.c
 Lectures/Topic17_Code_Optimization/fib.cpp
 Lectures/Topic17_Code_Optimization/fib.h
